@@ -1,0 +1,5 @@
+   "host": "localhost",
+    "port": 5433,
+    "dbname": "Ecommerce",
+    "user": **username**
+    "password": **password**
